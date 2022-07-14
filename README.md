@@ -1,1 +1,1 @@
-# alind.hithub.io
+# alind.github.io
